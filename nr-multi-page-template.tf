@@ -14,8 +14,8 @@
 */
 
 resource "newrelic_one_dashboard" "product_dashboard-type_domain" /* sample-product_appname_kpi-adoption_us */ {
-  name = "Product Line Dashboard Type - Product Name"
-	    // Sample Product - App Name: KPI & Adoption - US
+  name = "Product Name - App Name: Dashboard Type - Domain"
+	    // My Product - My App: KPI & Adoption - US
 
   // This is the summary dashboard used to surface the most relevant metrics
   page {
