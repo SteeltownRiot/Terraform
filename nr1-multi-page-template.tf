@@ -3,10 +3,10 @@
     Version: 1.0
     Last Modified: 2021-02-19
     Last Modified by: John Hopson
-                      johnchopson17@gmail.com
+                      https://github.com/SteeltownRiot/
     Created: 2021-02-19
     Created by: John Hopson
-	        johnchopson17@gmail.com
+	        https://github.com/SteeltownRiot/
     Note: Modified from HashiCorp example (accessed 2021-02-15)
 	  https://registry.terraform.io/providers/newrelic/newrelic/latest/docs/resources/one_dashboard
     Description: Template for creation of multi-page New Relic One dashboard with summary, KPI & Performance, and Adoption tabs
