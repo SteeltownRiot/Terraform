@@ -6,11 +6,11 @@
                       johnchopson17@gmail.com
     Created: 2021-02-19
     Created by: John Hopson
-	          johnchopson17@gmail.com
+	        johnchopson17@gmail.com
     Note: Modified from HashiCorp example (accessed 2021-02-15)
-	https://registry.terraform.io/providers/newrelic/newrelic/latest/docs/resources/one_dashboard
+	  https://registry.terraform.io/providers/newrelic/newrelic/latest/docs/resources/one_dashboard
     Description: Template for creation of multi-page New Relic One dashboard with summary, KPI & Performance, and Adoption tabs
-			tracking various client-specific metrics
+		 tracking various client-specific metrics
 */
 
 resource "newrelic_one_dashboard" "product_dashboard-type_domain" /* sample-product_appname_kpi-adoption_us */ {
